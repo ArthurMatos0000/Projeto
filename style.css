@@ -8,10 +8,10 @@ body{
     background-color: aqua;
 }
 
-header h1{
-color:blueviolet
+footer{
+    background-color: lime;
 }
 
-p{
-    background-color: brown;
+footer p{
+    font-size: 30px;
 }
