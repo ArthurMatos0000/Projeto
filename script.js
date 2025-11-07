@@ -1,2 +1,10 @@
 console.log("ola mundo");
-alert("Meu Site");
+
+let churrasco = "sim";
+
+if ( churrasco == "sim") {
+    alert ("vai ter churrasco");
+}
+else {
+    alert("então vamos marcar o churrasco!");
+}
